@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/crypto-wallet-connect/static/css/main.9fbf4cca.css",
+    "main.js": "/crypto-wallet-connect/static/js/main.35094b4c.js",
+    "index.html": "/crypto-wallet-connect/index.html",
+    "main.9fbf4cca.css.map": "/crypto-wallet-connect/static/css/main.9fbf4cca.css.map",
+    "main.35094b4c.js.map": "/crypto-wallet-connect/static/js/main.35094b4c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fbf4cca.css",
+    "static/js/main.35094b4c.js"
+  ]
+}
